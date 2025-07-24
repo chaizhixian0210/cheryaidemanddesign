@@ -1,0 +1,5 @@
+streamlit
+openai
+requests
+pillow
+```    *   每一行写一个库的名字。这个列表告诉Streamlit Cloud在启动你的应用之前，需要预先安装哪些依赖。
